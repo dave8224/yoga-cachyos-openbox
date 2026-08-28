@@ -292,6 +292,19 @@
     </action>
   </keybind>
 
+  <!-- Browser keybindings -->
+  <keybind key="W-b">
+    <action name="Execute">
+      <command>google-chrome-stable</command>
+    </action>
+  </keybind>
+
+  <keybind key="W-S-b">
+    <action name="Execute">
+      <command>firefox</command>
+    </action>
+  </keybind>
+
   <!-- Keybindings for windows -->
   <keybind key="W-q">
     <action name="Exit"/>
